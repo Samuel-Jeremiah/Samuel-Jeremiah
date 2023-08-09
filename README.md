@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samuel Jeremiah
-- 👀 I’m a web developer 
+- 👀 I’m a web developer, Python programmer 
 - 🌱 I’m currently on new technology 
 - 💞️ I’m looking forward to collaborate with industries 
 - 📫 How to reach me Email: skjerryforu@gmail.com or Whatsapp: 09162797369
